@@ -1,4 +1,4 @@
-# Vue
+# Vue 筆記
 
 參考教程：
 [Vue 出一個電商網站](https://www.udemy.com/vue-hexschool/learn/v4/content)
@@ -32,3 +32,7 @@ https://cn.vuejs.org/
 
 
 > Vue.js devtools只能在server上運行
+
+---
+
+Github： https://github.com/anita8004/vue-exercise/tree/master
